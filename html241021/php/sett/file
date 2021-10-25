@@ -1,0 +1,50 @@
+# Inizio
+00 00 * * 1 /bin/sh /tmp/launch.sh
+04 04 * * 1 /bin/sh /tmp/launch.sh
+00 10 * * 1 /bin/sh /tmp/launch.sh
+00 12 * * 1 /bin/sh /tmp/launch.sh
+00 14 * * 1 /bin/sh /tmp/launch.sh
+00 18 * * 1 /bin/sh /tmp/launch.sh
+# 7 - Martedi Inizio
+# 8 - Martedi Fine
+# 9 - Martedi Inizio
+#10 - Martedi Fine
+#11 - Martedi Inizio
+#12 - Martedi Fine
+#13 - Mercoledi Inizio
+#14 - Mercoledi Fine
+#15 - Mercoledi Inizio
+#16 - Mercoledi Fine
+#17 - Mercoledi Inizio
+#18 - Mercoledi Fine
+#19 - Giovedi Inizio
+#20 - Giovedi Fine
+#21 - Giovedi Inizio
+#22 - Giovedi Fine
+#23 - Giovedi Inizio
+#24 - Giovedi Fine
+#25 - Venerdi Inizio
+#26 - Venerdi Fine
+#27 - Venerdi Inizio
+#28 - Venerdi Fine
+#29 - Venerdi Inizio
+#30 - Venerdi Fine
+#31 - Sabato Inizio
+#32 - Sabato Fine
+#33 - Sabato Inizio
+#34 - Sabato Fine
+#35 - Sabato Inizio
+#36 - Sabato Fine
+#37 - Domenica Inizio
+#38 - Domenica Fine
+#39 - Domenica Inizio
+#40 - Domenica Fine
+#41 - Domenica Inizio
+#42 - Domenica Fine
+
+
+
+
+
+
+
