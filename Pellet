@@ -1,1 +1,5 @@
 Control pellet stove from Raspberry 
+Da installare per img-recognition:
+apt-get install tesseract-ocr
+apt-get install tesseract-ocr-ita
+apt-get install imagemagick
