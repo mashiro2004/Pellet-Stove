@@ -8,6 +8,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 	exit;
 }
 $output = shell_exec('/var/www/launcher/php_root');
+$output2 = shell_exec('/bin/sh /var/www/launcher/record.sh');
 $num = file_get_contents('http://192.168.4.200/php/num.php');
 if ($num < 50) {
     $color='Red';
