@@ -1,0 +1,57 @@
+# Inizio
+50 04 * * 1 /bin/sh /var/www/launcher/on.sh
+# 2 - Lunedi Fine
+# 3 - Lunedi Inizio
+# 4 - Lunedi Fine
+# 5 - Lunedi Inizio
+# 6 - Lunedi Fine
+50 04 * * 2 /bin/sh /var/www/launcher/on.sh
+# 8 - Martedi Fine
+# 9 - Martedi Inizio
+#10 - Martedi Fine
+#11 - Martedi Inizio
+#12 - Martedi Fine
+50 04 * * 3 /bin/sh /var/www/launcher/on.sh
+#14 - Mercoledi Fine
+#15 - Mercoledi Inizio
+#16 - Mercoledi Fine
+#17 - Mercoledi Inizio
+#18 - Mercoledi Fine
+50 04 * * 4 /bin/sh /var/www/launcher/on.sh
+#20 - Giovedi Fine
+#21 - Giovedi Inizio
+#22 - Giovedi Fine
+#23 - Giovedi Inizio
+#24 - Giovedi Fine
+50 04 * * 5 /bin/sh /var/www/launcher/on.sh
+#26 - Venerdi Fine
+#27 - Venerdi Inizio
+#28 - Venerdi Fine
+#29 - Venerdi Inizio
+#30 - Venerdi Fine
+00 09 * * 6 /bin/sh /var/www/launcher/on.sh
+#32 - Sabato Fine
+#33 - Sabato Inizio
+#34 - Sabato Fine
+#35 - Sabato Inizio
+#36 - Sabato Fine
+00 10 * * 7 /bin/sh /var/www/launcher/on.sh
+#38 - Domenica Fine
+#39 - Domenica Inizio
+#40 - Domenica Fine
+#41 - Domenica Inizio
+#42 - Domenica Fine
+50 07 * * 1 /bin/sh /var/www/launcher/10down.sh
+00 14 * * 1 /bin/sh /var/www/launcher/10up.sh
+50 07 * * 2 /bin/sh /var/www/launcher/10down.sh
+00 14 * * 2 /bin/sh /var/www/launcher/10up.sh
+50 07 * * 3 /bin/sh /var/www/launcher/10down.sh
+00 14 * * 3 /bin/sh /var/www/launcher/10up.sh
+50 07 * * 4 /bin/sh /var/www/launcher/10down.sh
+00 14 * * 4 /bin/sh /var/www/launcher/10up.sh
+50 07 * * 5 /bin/sh /var/www/launcher/10down.sh
+00 14 * * 5 /bin/sh /var/www/launcher/10up.sh
+#53 - Sabato Abbassa
+#54 - Sabato Alza
+#55 - Domenica Abbassa
+#56 - Domenica Alza
